@@ -26,4 +26,4 @@ begin
 		end if;
 		qno<=not q;
 	end process;
-end cofft;
+end coffd;
